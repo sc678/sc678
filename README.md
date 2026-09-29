@@ -1,6 +1,20 @@
-## Hi there! 👋
+## Hi, I'm Sandra Chizoba 👋
 
-Sandra Chizoba, first-year Computer Science student at TCU, Class of 2030
-Curious about data analytics and how it can be used to streamline technological processes.
-Currently building a Karel repository.
-LinkedIn: 
+🎓 First-Year Computer Science Student at Texas Christian University (TCU)
+📅 Class of 2030
+
+About Me
+I'm a Computer Science student interested in data analytics and how technology can be used to improve and streamline processes.
+I'm currently building my programming skills through coursework and hands-on projects, including my Karel repository.
+
+Interests
+📊 Data Analytics
+💻 Computer Science
+🗄️ Data & Database Management
+
+Current Project
+🤖 Karel Repository
+A beginner programming project focused on learning programming fundamentals through Karel.
+
+Connect With Me
+🔗 LinkedIn
