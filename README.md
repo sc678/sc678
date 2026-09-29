@@ -1,12 +1,12 @@
 ## Hi, I'm Sandra Chizoba 👋
 
-🎓 First-Year Computer Science Student at Texas Christian University (TCU)
+🎓 First-Year Data Science Student at Texas Christian University (TCU)
 
 📅 Class of 2030
 
 About Me
 
-I'm a Computer Science student interested in data analytics and how technology can be used to improve and streamline processes.
+I'm a data science student interested in data analytics and how technology can be used to improve and streamline processes.
 
 Interests
 
