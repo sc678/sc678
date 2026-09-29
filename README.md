@@ -23,3 +23,5 @@ A beginner programming project focused on learning programming fundamentals thro
 Connect With Me
 
 🔗 LinkedIn
+
+www.linkedin.com/in/sandrachizoba
