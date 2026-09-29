@@ -7,7 +7,6 @@
 About Me
 
 I'm a Computer Science student interested in data analytics and how technology can be used to improve and streamline processes.
-I'm currently building my programming skills through coursework and hands-on projects, including my Karel repository.
 
 Interests
 
@@ -18,6 +17,7 @@ Interests
 Current Project
 
 🤖 Karel Repository
+
 A beginner programming project focused on learning programming fundamentals through Karel.
 
 Connect With Me
